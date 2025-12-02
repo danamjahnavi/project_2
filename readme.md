@@ -5,7 +5,8 @@
 1. Create a postgres database on [render.com](https://dashboard.render.com/)
 2. [Buy tokens](https://platform.openai.com/settings/organization/billing/overview)
 3. [Generate a API key](https://platform.openai.com/settings/organization/api-keys)
-   
+##deployment link
+4. [streamlitapp](https://project2-5i4y7f6t9pgpsb462avyrw.streamlit.app)   
 
 ## Steps to run
 
